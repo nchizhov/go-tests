@@ -25,4 +25,5 @@ jobs:
                 project_path: "."
                 binary_name: "program"
                 ldflags: "-s -w"
+                compress_assets: "OFF"
         
